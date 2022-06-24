@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">personalProject</string>
+    <string name="user_location">user location</string>
+    <string name="user_name">user name</string>
+    <string name="get_my_weather">get my weather</string>
+    <string name="todo">TODO</string>
+</resources>
